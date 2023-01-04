@@ -7,4 +7,3 @@ hw01-q5-application.o: src/hw01-q5-application.cpp
 clean:
 	rm src/*.o
 
-
